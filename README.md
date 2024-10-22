@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khardeni Achref</h1>
-<h3 align="center">A passionate Full-Stack , DevOps developer from Tunisia</h3>
+<h3 align="center">A passionate Full-Stack developer from Tunisia</h3>
 
 - 🔭 I’m currently working on **Software architecture engineering**
 
